@@ -4,6 +4,7 @@ import spring from "./spring.png";
 import react from "./react.png";
 import web from "./web.png";
 import github from "./github.png";
+import cloud from "./cloud.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -26,9 +27,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import couponey from "./couponey.png";
 
 export {
   logo,
@@ -37,6 +36,7 @@ export {
   spring,
   web,
   github,
+  cloud,
   menu,
   close,
   css,
@@ -56,7 +56,5 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  couponey,
 };
